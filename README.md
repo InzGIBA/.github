@@ -2,4 +2,4 @@
 
 Profile metadata repository.
 
-The profile rendered on my GitHub page lives in [profile/README.md](profile/README.md).
+My profile README lives in [InzGIBA/InzGIBA](https://github.com/InzGIBA/InzGIBA).
